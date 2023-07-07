@@ -1,2 +1,2 @@
-# gradbena-soglasja
-Gradbena-Soglasja
+# eParcela
+Inovativen pregledovalnik parcel

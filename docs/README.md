@@ -1,2 +1,2 @@
-# eParcela
+# Parcelko
 Inovativen pregledovalnik parcel
